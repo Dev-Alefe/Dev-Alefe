@@ -1,7 +1,10 @@
-## Bem-vindo(a) ao perfil do Dev Alefe 😁
+## Prazer em conhecê-lo, meu nome é Alefe Nascimento 😁
 
+• Sou técnico em Manutenção e Suporte em Informática.
+• Gosto de ler livros, jogar, entre outras atividades.
+• Meu e-mail profissional é: <a href = "mailto:profissional.alefesantos@hotmail.com" profissional.>profissional.alefesantos@hotmail.com</a>
  <div>
-   <a href="https://github.com/Dev-Alefe">
+   <a href="https://github.com/Dev-Alefe"></a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Alefe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alefe&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
