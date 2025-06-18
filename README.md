@@ -1,6 +1,6 @@
 ## Prazer em conhecê-lo, meu nome é Alefe Nascimento 😁
 
-• Sou técnico em Manutenção e Suporte em Informática. <br>
+• Sou técnico em Manutenção e Suporte em Informática, migrando para a área de programação. <br>
 • Gosto de ler livros, jogar, entre outras atividades... <br>
 • E-mail profissional: <a href = "mailto:profissional.alefesantos@hotmail.com" profissional.>profissional.alefesantos@hotmail.com</a> <br>
  <div>
